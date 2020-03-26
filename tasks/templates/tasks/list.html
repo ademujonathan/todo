@@ -1,0 +1,81 @@
+<style>
+
+.main{
+	margin-left: 10em;
+	margin-top: 2em;
+}
+
+ form{
+ 	margin-left: 35em;
+ }
+
+ h1{
+ 	margin-bottom: -1em;
+ 	margin-left: 1em;
+ }
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 75%;
+}
+
+td{
+  border: 1px solid #dddddd;
+  padding: 10px;
+  width: 16em;
+  position: relative;
+  text-align: center;
+  background-color: #65875b;
+  color: white;
+ }
+ 
+ a{
+ 	color: red;
+ }
+ .edit{
+ 	color: blue;
+ }
+
+</style>
+
+
+
+
+<div class="main">
+
+<h1>Jonathan: TO DO LIST</h1>
+
+<form method="POST" action="/">
+	{% csrf_token %}
+	{{form.title}}
+	<button type="submit" name="Create Task">Add to list</button>
+</form>
+<!-- for loops -->
+{% for task in tasks %}
+	<div text>
+		<table>
+		<tr>
+			<td>
+				<div>
+					{% if task.complete == True %}
+					<strike>{{task}}</strike>
+					{% else %}
+					<span>{{task}}</span>
+					{% endif %}
+				</div>
+			</td>
+
+			<td>
+				<a class="edit" href="{% url 'update_task' task.id %}">Edit</a>
+			</td>
+
+			<td>
+				<a href="{% url 'delete' task.id %}">Delete</a>
+			</td>
+		</tr>
+		</table>
+		
+	</div>
+	
+{% endfor %}
+</div>

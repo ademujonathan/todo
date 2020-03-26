@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25bffb70-cdf5-49b2-b7b9-2592aacfa58d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZZiGmIMBI1veBlKCYDpVSBKtVk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../COURSE" />
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="todo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Joe\PycharmProjects\Learning\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="forms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="todo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Joe\PycharmProjects\Learning\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/forms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="todo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Joe\PycharmProjects\Learning\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="todo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Joe\PycharmProjects\Learning\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="todo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Joe\PycharmProjects\untitled\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/test_views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.test_views" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.admin" />
+        <item itemvalue="Python.forms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="0" key="#admin" timestamp="1585053087479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="0" key="#admin/0.0.1366.728@0.0.1366.728" timestamp="1585053087479" />
+    <state x="386" y="0" key="#apps" timestamp="1585053025311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="0" key="#apps/0.0.1366.728@0.0.1366.728" timestamp="1585053025311" />
+    <state x="386" y="0" key="#forms" timestamp="1585052965919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="0" key="#forms/0.0.1366.728@0.0.1366.728" timestamp="1585052965919" />
+    <state x="386" y="0" key="#manage" timestamp="1585053064705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="0" key="#manage/0.0.1366.728@0.0.1366.728" timestamp="1585053064705" />
+    <state x="386" y="0" key="#models" timestamp="1585053250999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="0" key="#models/0.0.1366.728@0.0.1366.728" timestamp="1585053250999" />
+    <state x="438" y="0" key="#test_views" timestamp="1585063530100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="0" key="#test_views/0.0.1366.728@0.0.1366.728" timestamp="1585063530100" />
+    <state x="412" y="61" key="FileChooserDialogImpl" timestamp="1585069380921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="61" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585069380921" />
+    <state width="1339" height="162" key="GridCell.Tab.0.bottom" timestamp="1585065780625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585065780625" />
+    <state width="1339" height="162" key="GridCell.Tab.0.center" timestamp="1585065780625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585065780625" />
+    <state width="1339" height="162" key="GridCell.Tab.0.left" timestamp="1585065780624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585065780624" />
+    <state width="1339" height="162" key="GridCell.Tab.0.right" timestamp="1585065780625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585065780625" />
+  </component>
+</project>
